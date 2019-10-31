@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://freedomhihk.com/precache-manifest.936cef66d0b171b80b5d033153a04b7d.js"
+  "https://freedomhihk.com/precache-manifest.dbe526cfdc4194ff1e713a3477670365.js"
 );
 
 self.addEventListener('message', (event) => {
