@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4827103330bbd4eec032ebf6db7aa8db",
+    "revision": "40b594ae4bfd7b538e7ef7545ee8a6c8",
     "url": "https://freedomhihk.com/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://freedomhihk.com/static/css/2.549069af.chunk.css"
   },
   {
-    "revision": "17751d2c294eebb3d4d5",
+    "revision": "81a3ec976c041d671b17",
     "url": "https://freedomhihk.com/static/css/main.5d69ff3c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://freedomhihk.com/static/js/2.2f2c1b71.chunk.js"
   },
   {
-    "revision": "17751d2c294eebb3d4d5",
-    "url": "https://freedomhihk.com/static/js/main.f053bbdb.chunk.js"
+    "revision": "81a3ec976c041d671b17",
+    "url": "https://freedomhihk.com/static/js/main.2cc13c9e.chunk.js"
   },
   {
     "revision": "cf44c261fb7176e5f7f6",
